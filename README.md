@@ -8,8 +8,10 @@ LLM Milestones and Papers
 
 ## Reading notes
 要把景点论文阅读这个模糊的任务具体化，比如整理格式固定的阅读笔记。
-
+1）一句话总结论文：
+2）主要结论：
+3
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMzQyODE3MDMsLTExMTkyMjk2ODAsLT
-E3NjMyMTU1MDEsMTE1NTIzNjk1OCwtMTc0NjI1NzY3OF19
+eyJoaXN0b3J5IjpbMTA5NjE4MTk5MSwtMTExOTIyOTY4MCwtMT
+c2MzIxNTUwMSwxMTU1MjM2OTU4LC0xNzQ2MjU3Njc4XX0=
 -->
