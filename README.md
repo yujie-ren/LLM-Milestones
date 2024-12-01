@@ -7,8 +7,7 @@ LLM Milestones and Papers
 
 
 ## Reading notes
-
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk1Njg3MjMwLC0xNzYzMjE1NTAxLDExNT
-UyMzY5NTgsLTE3NDYyNTc2NzhdfQ==
+eyJoaXN0b3J5IjpbLTExMTkyMjk2ODAsLTE3NjMyMTU1MDEsMT
+E1NTIzNjk1OCwtMTc0NjI1NzY3OF19
 -->
