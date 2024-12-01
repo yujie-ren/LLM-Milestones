@@ -7,8 +7,9 @@ LLM Milestones and Papers
 
 
 ## Reading notes
-要把景点论文阅读这个模糊的任务具体化，比如整理固定
+要把景点论文阅读这个模糊的任务具体化，比如整理格式固定的阅读笔记。
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTczODgwOTE3NCwtMTExOTIyOTY4MCwtMT
-c2MzIxNTUwMSwxMTU1MjM2OTU4LC0xNzQ2MjU3Njc4XX0=
+eyJoaXN0b3J5IjpbLTIxMzQyODE3MDMsLTExMTkyMjk2ODAsLT
+E3NjMyMTU1MDEsMTE1NTIzNjk1OCwtMTc0NjI1NzY3OF19
 -->
