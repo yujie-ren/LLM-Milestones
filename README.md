@@ -7,13 +7,13 @@ LLM Milestones and Papers
 
 
 ## Reading notes
-要把重要论文阅读这个模糊的任务具体化，比如整理格式固定的论文阅读笔记。
-1）一句话总结论文；
-2）对后续工作的主要影响；
-3）为什么这篇文章会有这么大的影响力；
-4）Research gap, method, results.
+要把重要论文阅读这个模糊的任务具体化，比如整理格式固定的论文阅读笔记。  
+1）一句话总结论文；  
+2）对后续工作的主要影响；  
+3）为什么这篇文章会有这么大的影响力；  
+4）Research gap, method, results.  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg0OTQ3MTIyOCwtMTQ1NjA5MjkzOCw4OT
-IwODc3NCwtMTExOTIyOTY4MCwtMTc2MzIxNTUwMSwxMTU1MjM2
-OTU4LC0xNzQ2MjU3Njc4XX0=
+eyJoaXN0b3J5IjpbMzA0MDQxMjIwLC0xNDU2MDkyOTM4LDg5Mj
+A4Nzc0LC0xMTE5MjI5NjgwLC0xNzYzMjE1NTAxLDExNTUyMzY5
+NTgsLTE3NDYyNTc2NzhdfQ==
 -->
