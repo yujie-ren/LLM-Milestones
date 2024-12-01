@@ -11,9 +11,9 @@ LLM Milestones and Papers
 1）一句话总结论文；
 2）对后续工作的主要影响；
 3）为什么这篇文章会有这么大的影响力；
-4）
+4）Research gap, method, results.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NTYwOTI5MzgsODkyMDg3NzQsLTExMT
-kyMjk2ODAsLTE3NjMyMTU1MDEsMTE1NTIzNjk1OCwtMTc0NjI1
-NzY3OF19
+eyJoaXN0b3J5IjpbLTg0OTQ3MTIyOCwtMTQ1NjA5MjkzOCw4OT
+IwODc3NCwtMTExOTIyOTY4MCwtMTc2MzIxNTUwMSwxMTU1MjM2
+OTU4LC0xNzQ2MjU3Njc4XX0=
 -->
